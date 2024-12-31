@@ -2,8 +2,8 @@
 {
   "name": "XLICON-V4-MD",
   "description": "WhatsApp Bot Using Lib Baileys",
-  "repository": "https://github.com/salmanytofficial/XLICON-V4-MD",
-  "logo": "https://iili.io/dET3ukX.md.png",
+  "repository": "https://github.com/asadnewbie/XLICON-V4-MD",
+  "logo": "",
   "keywords": ["muti-device"],
   "stack": "container",
   "formation": {
@@ -14,6 +14,7 @@
     },
   "env": {
     "SESSION_ID": {
+      "value": "XLICON-V4~KyIyhKTA#lBWJGHe0w-OK367hjfYkOG-rM-rMGokfhkL57iwwdDk"
       "description": "Enter session id here; must start with XLICON-V4~",
       "required": true
     },
@@ -28,7 +29,7 @@
        "required": true
     },
     "OWNER_NAME": {
-      "value": "𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙",
+      "value": "Asad",
       "description": "Owner Name",
        "required": true
     },
